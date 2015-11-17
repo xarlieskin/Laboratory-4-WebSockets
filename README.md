@@ -11,7 +11,7 @@ Javier Beltran Jorba | 532581
 Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122 
 Iñigo Alonso Ruiz | 665959 
-Ismael Rodríguez Hernández | 587429 
+Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/ismaro3/Laboratory-4-WebSockets.svg)](https://travis-ci.org/ismaro3/Laboratory-4-WebSockets) | Create a HTML+JS client
 Jorge Martinez Lascorz | 571735
 David Nicuesa Aranda | 653224 
 Eduardo Ibanez | 528074 
