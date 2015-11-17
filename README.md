@@ -29,7 +29,7 @@ Alberto Sabater Bailén | 546297
 Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/SirBargus/Laboratory-4-WebSockets.svg)](https://travis-ci.org/SirBargus/Laboratory-4-WebSockets) | Transform into a Node.js Application
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
-Luis Jesus Pellicer | 520256
+Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/luisjesuspellicer/Laboratory-4-WebSockets.svg)](https://travis-ci.org/luisjesuspellicer/Laboratory-4-WebSockets)
 Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
