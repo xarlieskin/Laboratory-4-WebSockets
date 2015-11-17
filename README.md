@@ -11,12 +11,12 @@ Javier Beltran Jorba | 532581
 Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122 
 Iñigo Alonso Ruiz | 665959 
-Ismael Rodríguez Hernández | 587429 
+Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/ismaro3/Laboratory-4-WebSockets.svg)](https://travis-ci.org/ismaro3/Laboratory-4-WebSockets) | Create a HTML+JS client
 Jorge Martinez Lascorz | 571735
 David Nicuesa Aranda | 653224 
 Eduardo Ibanez | 528074 
 Sergio Soro Miranda | 671250 
-Alberto Álvarez Aldea | 681687
+Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/albert17/Laboratory-4-WebSockets.svg)](https://travis-ci.org/albert17/Laboratory-4-WebSockets) | Transform into a Spring Boot Application
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215 
 Adrian Susinos Moreno | 650220 
