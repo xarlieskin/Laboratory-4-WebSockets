@@ -23,7 +23,7 @@ Adrian Susinos Moreno | 650220
 Santiago Gil Begué | 683482 | [Santi-7's repo](https://github.com/Santi-7/Laboratory-4-WebSockets) | [![Build Status](https://travis-ci.org/Santi-7/Laboratory-4-WebSocketss.svg?branch=master)](https://travis-ci.org/Santi-7/Laboratory-4-WebSockets) | Subprotocol to send data
 Carlos Escuín Blasco | 545003
 Alberto Revel | 628704
-Raul Piracés Alastuey | 490790
+Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/piraces/Laboratory-4-WebSockets.svg)](https://travis-ci.org/piraces/Laboratory-4-WebSockets)
 Adrian Moreno Jimeno | 631537
 Alberto Sabater Bailén | 546297
 Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/SirBargus/Laboratory-4-WebSockets.svg)](https://travis-ci.org/SirBargus/Laboratory-4-WebSockets) | Transform into a Node.js Application
