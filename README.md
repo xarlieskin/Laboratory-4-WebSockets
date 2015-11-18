@@ -9,7 +9,7 @@ AlejandroDiesteCortes | 541892
 Cristian Román |646564
 Javier Beltran Jorba | 532581
 Marcos Canales Mayo | 467716
-Jorge Cáncer Gil | 646122 | [My repo](https://github.com/jorcox/Laboratory-4-WebSockets) | [![Build Status](https://travis-ci.org/jorcox/Laboratory-4-WebSocketss.svg?branch=master)](https://travis-ci.org/jorcox/Laboratory-4-WebSockets)
+Jorge Cáncer Gil | 646122 | [My repo](https://github.com/jorcox/Laboratory-4-WebSockets) | [![Build Status](https://travis-ci.org/jorcox/Laboratory-4-WebSockets.svg)](https://travis-ci.org/jorcox/Laboratory-4-WebSockets) 
 Iñigo Alonso Ruiz | 665959
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/ismaro3/Laboratory-4-WebSockets.svg)](https://travis-ci.org/ismaro3/Laboratory-4-WebSockets) | Create a HTML+JS client
 Jorge Martinez Lascorz | 571735
