@@ -15,7 +15,7 @@ Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Labora
 Jorge Martinez Lascorz | 571735
 David Nicuesa Aranda | 653224
 Eduardo Ibanez | 528074
-Sergio Soro Miranda | 671250
+Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/teruyi/Laboratory-4-WebSockets.svg)](https://travis-ci.org/teruyi/Laboratory-4-WebSockets)
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-4-WebSockets) |[![Build Status](https://travis-ci.org/albert17/Laboratory-4-WebSockets.svg)](https://travis-ci.org/albert17/Laboratory-4-WebSockets) | Transform into a Spring Boot Application
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
