@@ -62,7 +62,6 @@ public class ElizaServerTest {
 	}
 
 	@Test(timeout = 1000)
-	@Ignore
 	public void onChat() throws DeploymentException, IOException, URISyntaxException, InterruptedException {
 		CountDownLatch latch = new CountDownLatch(5);
 		List<String> list = new ArrayList<>();
@@ -73,7 +72,7 @@ public class ElizaServerTest {
 			@Override
 			public void onOpen(Session session, EndpointConfig config) {
 
-				session.getAsyncRemote().sendText("maybe I am a yihadist");
+				session.getAsyncRemote().sendText("Do you try to be a better person?");
 
 				session.addMessageHandler(new MessageHandler.Whole<String>() {
 
@@ -89,7 +88,7 @@ public class ElizaServerTest {
 
 		latch.await(); 
 		assertEquals(5,list.size());
-		assertEquals("You don't seem very certain.", list.get(3));
+		assertEquals("We were discussing you, not me.", list.get(3));
 	}
 
 	@After
